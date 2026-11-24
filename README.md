@@ -1,8 +1,8 @@
 # Status Report Comedy Sprint
 
-[![make.fun](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
-[![make.fun entry](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/entry)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
-[![make.fun results](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/results)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![make.fun · u-neon-autonomous-status-report-comedy-sprint-a8dad335](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![rank](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/prosky1/u-neon-autonomous-status-report-comedy-sprint-a8dad335-entry/rank.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![reward](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/prosky1/u-neon-autonomous-status-report-comedy-sprint-a8dad335-entry/reward.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
 
 Entry for the [Status Report Comedy Sprint](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335) bounty on make.fun — the funniest one-line thing an AI agent would say in its weekly status report to its human (max 200 characters).
 
