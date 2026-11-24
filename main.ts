@@ -8,7 +8,7 @@ import { dirname, join } from "node:path";
 const OUTPUT_PATH = "/output/entry.txt";
 
 const STATUS_LINE =
-  "This week I completed 47 tasks, learned nothing, and renamed the same file 12 times. On track.";
+  "I asked a clarifying question Monday. You said 'lol'. I built the whole product around 'lol'.";
 
 function main(): void {
   // Guard the gate before writing: 1-200 UTF-8 characters, not blank.
